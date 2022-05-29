@@ -14,7 +14,8 @@ flex-wrap:wrap; margin-top:20px"><br>
   <img  alt="Luis-CSS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   </div>
     <img  alt="Luis-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-	<hr/>
+	
+	<h1>&nbsp;</h1>
   </div>
   
   
