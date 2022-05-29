@@ -2,7 +2,7 @@
 <div style="display:flex; align-items:center; justify-content:center">
   <a href="https://bot--v1.web.app" target="_blank">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=luis-Front-end&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" style="width:100%; margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-Front-end&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" style="width:100%; margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-Front-end&layout=compact&langs_count=7&theme=highcontrast"/>  
 </div>
 
 <div style="display:flex; align-items:center; justify-content:space-between;
