@@ -6,7 +6,7 @@
 </div>
 
 <div style="display:flex; align-items:center; justify-content:space-between;
-flex-wrap:wrap; margin-top:20px"><br>
+flex-wrap:wrap; margin-top:20px; width:100%"><br>
   <img  alt="Luis-Js" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Luis-Ts" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img  alt="Luis-React" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -15,12 +15,12 @@ flex-wrap:wrap; margin-top:20px"><br>
   </div>
     <img  alt="Luis-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 	
-	<h1>&nbsp;</h1>
+	<h1>&nbsp</h1>
   </div>
   
   
 <div style="display:flex; align-items:center; justify-content:space-between;
-flex-wrap:wrap"> 
+flex-wrap:wrap; width:100%"> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
